@@ -77,6 +77,6 @@
 ## 📊 Stats & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Stats" height="180" />
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahibxaae&show_icons=true&theme=tokyonight" alt="Stats" height="180" />
+  <img src="https://streak-stats.demolab.com?user=Sahibxaae&theme=tokyonight&hide_border=true" alt="Streak" height="180" />
 </div>
