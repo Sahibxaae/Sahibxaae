@@ -27,7 +27,7 @@
 <h3>🌐 Connect with Me</h3>
   
 <p align="left">
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:mohamedsahib.xaae@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mohamed-sahib/">
@@ -38,7 +38,7 @@
   </a>
 </p>
 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile Visit"/>
+  <img src="https://komarev.com/ghpvc/?username=Sahibxaae&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
